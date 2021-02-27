@@ -14,3 +14,5 @@
 - I resized the card and chenged the content with facts.
 - I fixed the Volunteer Application's option box and changed the content. 
 - I created an alert on Submit button.
+
+**Tisha:** Worked on Paragraphs Section/Content.
