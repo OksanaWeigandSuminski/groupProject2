@@ -70,8 +70,8 @@ select:focus {
 }
 input[type="submit"] {
 	background: none;
-	background-color: #5ca51c;
-	border: solid 1px #4e8917;
+	background-color: #bb1a34;
+        border: solid 1px #bb1a34;
 	border-bottom-width: 4px;
 	border-radius: 4px;
 	color: #fff;
