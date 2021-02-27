@@ -12,17 +12,17 @@ var nysData = {
 		name: 'Queens',
 		cases: '203,281',
 		deaths: '8,724',
-		siteName: 'Annadale Playground',
-		siteLocation: 'Yellowstone Boulevard between 64nd Road & 65th Avenue Rego Park, NY 11374',
-		siteHours: 'Monday - Friday, 9:30 AM - 4:30 PM'
+		siteName: 'Astoria Welfare Society',
+		siteLocation: '29-11 36th Avenue Astoria, NY 11106',
+		siteHours: 'Friday, 8:00 AM - 7:00 PM'
 	},
 	brooklyn: {
 		name: 'Brooklyn',
 		cases: '201,582',
 		deaths: '9,051',
-		siteName: 'Family Services Network of New York Access Center',
-		siteLocation: '1721 Pitkin Avenue Brooklyn, NY 11212',
-		siteHours: 'Tuesday - Thursday, 10:00 AM - 4:00 PM'
+		siteName: 'The FARM',
+		siteLocation: '1432 Pitkin Avenue Brooklyn, NY 11233',
+		siteHours: 'Tuesday, Thursday, 10:00 AM - 4:00 PM'
 	},
 	bronx: {
 		name: 'The Bronx',
@@ -36,16 +36,16 @@ var nysData = {
 		name: 'Manhattan',
 		cases: '102,666',
 		deaths: '3,875',
-		siteName: 'Alliance for Positive Change',
-		siteLocation: 'Wagner Green Space, 451 E. 120th Street New York, NY 10035',
-		siteHours: 'Wednesday, 8:00 AM - 7:00 PM'
+		siteName: 'Convent Avenue Baptist Church',
+		siteLocation: '420 W 145th St New York, NY 10031',
+		siteHours: 'Monday - Thursday, 9:30 AM - 4:00 PM'
 	},
 	staten: {
 		name: 'Staten Island',
 		cases: '55,597',
 		deaths: '1,571',
-		siteName: 'NYCHA/South Beach',
-		siteLocation: 'Parking lot near corner of Norway Avenue & Kramer Street Staten Island, NY 10305',
-		siteHours: 'Wednesday - Sunday, 8:00 AM - 7:00 PM'
+		siteName: 'Tompkinsville Park',
+		siteLocation: '45 Victory Blvd Staten Island, NY 10301',
+		siteHours: 'Tuesday, 8:00 AM - 7:00 PM'
 	}
 };
