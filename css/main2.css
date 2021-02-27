@@ -60,8 +60,8 @@ main .content-wrapper {
 	max-width: 42em;
 }
 header {
-	background-color: #00b0dc;
-	border-bottom: 3px solid #009bc2;
+	background-color: #404040;
+	border-bottom: 3px solid #404040;
 	line-height: 1px;
 	margin: auto;
 	overflow: hidden;
@@ -75,11 +75,7 @@ header .logo {
 	text-align: center;
 	padding: 2.4rem 0;
 	background:
-		linear-gradient(
-			rgba(0, 0, 0, .48),
-			rgba(0, 0, 0, .48)
-		),
-		url('../img/siesta-in-hammock@2x.jpg') no-repeat 60% center;
+		url('../img/untitled design (3)') no-repeat 60% center;
 	background-size: cover;
 }
 .hero p {
@@ -101,7 +97,7 @@ main {
 	line-height: 1.5;
 	font-weight: 300;
 	margin: 1.8rem 0;
-	border-left: 4px solid #53b7ea;
+	border-left: 4px solid #bb1a34;
 	padding-left: 1em;
 }
 figure {
