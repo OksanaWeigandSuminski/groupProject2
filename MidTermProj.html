@@ -98,8 +98,7 @@
 			<div class="second step">
 				<h2>2. Share the Fact!</h2>
 				<div id="postcard">
-					<p id="greeting">To See the Fact</p>
-					<p id="state-heading">Choose a Fact</p>
+					<p id="greeting">To See the Fact <br><strong>Choose a Fact</strong></p>
 				</div>
 			</div>
 		</main>
@@ -234,7 +233,7 @@
 		//Oksana edited this part start
 		document.getElementById('greeting').innerHTML = '';
 		//Oksana edited this part end
-		document.getElementById('state-heading').innerHTML = states.options[states.selectedIndex].text;
+		//document.getElementById('state-heading').innerHTML = states.options[states.selectedIndex].text;
 	}
 	function clicked() {
     		alert('We received your application. Thank you!');
