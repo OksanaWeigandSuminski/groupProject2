@@ -215,7 +215,7 @@
 					<option value="2017">12:00 am</option>
 				</select>
 			</div>
-			<input id="submit" type="submit" value="Submit">
+			<input id="submit" type="submit" value="Submit" onclick="clicked();">
 		</form>
 	</div>
 </div>
@@ -235,6 +235,9 @@
 		document.getElementById('greeting').innerHTML = '';
 		//Oksana edited this part end
 		document.getElementById('state-heading').innerHTML = states.options[states.selectedIndex].text;
+	}
+	function clicked() {
+    		alert('We received your application. Thank you!');
 	}
 </script>
 
