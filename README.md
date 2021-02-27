@@ -9,3 +9,8 @@
 - I created the logo and banner and uploaded to the website
 - I also changed color of appropriate elements to suit our color scheme
 - I also worked on changing links on navigation bar
+
+**Oksana:** Worked on Facts Card, Volunteer Application.
+- I resized the card and chenged the content with facts.
+- I fixed the Volunteer Application's option box and changed the content. 
+- I created an alert on Submit button.
