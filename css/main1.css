@@ -78,10 +78,16 @@ h1 {
 	margin: 1em 0 0;
 	text-align: center;
 }
+
+/* Joyce edited this part - Start */
 .info-holder {
 	display: inline-block;
 	float: left;
+	width: 430px;
+	text-align: left;
 }
+/* Joyce edited this part - End */
+
 h2 {
 	font-weight: 400;
 	margin-top: 0;
