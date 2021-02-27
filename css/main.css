@@ -127,9 +127,10 @@ footer p {
 	select {
 		width: 300px;
 	}
+	/* Oksana changed #postcard */
 	#postcard {
-		width: 406px;
-		height: 292px;
+		width: 747px;
+		height: 747px;
 		padding-top: 88px;
 	}
 	#greeting {
@@ -160,13 +161,16 @@ footer p {
 		display: inline-block;
 		vertical-align: top;
 	}
+	/* Oksana changed here start */
 	.first.step {
-		width: 300px;
-		margin-right: 94px;
+		width: 747px;
+		text-align: center;
 	}
 	.second.step {
-		width: 406px;
+		width: 747px;
+		text-align: center;
 	}
+	/* Oksana changed here end */
 	footer {
 		padding: 30px;
 	}
