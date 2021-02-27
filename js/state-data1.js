@@ -1,8 +1,12 @@
+// object with NYC covid-19 data key:value for each borough in NYC 
 var nysData = {
 	nyc: {
 		name: 'New York City',
 		cases: '698,751',
-		deaths: '29,173'
+		deaths: '29,173',
+		siteName: 'Choose a borough',
+		siteLocation: 'Choose a borough',
+		siteHours: 'Choose a borough'
 	},
 	queens: {
 		name: 'Queens',
